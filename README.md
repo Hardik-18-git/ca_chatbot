@@ -27,7 +27,7 @@ CA Assist is a static, responsive conversational assistant for general Chartered
 
 ## Local development
 
-1. Install dependencies with `npm ci`.
+1. Install dependencies with `npm install`.
 2. Create `.env.local` in the project root and set `VITE_GEMINI_API_KEY` to your Google AI Studio API key. This file is ignored by Git; never commit or print the key.
 3. Start the Vite development server with `npm run dev`.
 
